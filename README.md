@@ -15,7 +15,11 @@ Data Analyst with experience in healthcare revenue cycle analytics and operation
 
 ## 📊 Projects
 
-Projects will be added soon.
+### Copper Demand Analysis Project
+
+![Dashboard] <img width="1125" height="631" alt="Copper Demand Analysis Project" src="https://github.com/user-attachments/assets/7d41806b-9060-44b0-b5d7-e0b8935ac12c" />
+
+
 
 ## 📫 Contact
 
